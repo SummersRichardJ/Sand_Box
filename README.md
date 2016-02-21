@@ -1,2 +1,2 @@
 # Sand_Box
-Test repository
+An exercise area for the Coursera Data Scientist course
